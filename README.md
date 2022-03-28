@@ -32,7 +32,7 @@ Tutorial YouTube
 
 ## WhatsApp Gua
 
-[![Deploy](https://chat.whatsapp.com/c/6285823467060)])
+[![Chat](https://chat.whatsapp.com/c/6285823467060)])
 
 ## settings 
 Edit Nomor Owner DLL `'./config.js'`
